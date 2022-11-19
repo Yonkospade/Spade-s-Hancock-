@@ -3,8 +3,8 @@ const chalk = require('chalk')
 
              //--------Owner v card--------\\
                
-             global.vcardowner = ['918811074852'] // Owner number //
-             global.ownername = "3.69_Pika" // Owner name //
+             global.vcardowner = ['919673141317'] // Owner number //
+             global.ownername = "Spade!🧡" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
